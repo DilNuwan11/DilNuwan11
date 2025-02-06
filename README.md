@@ -18,9 +18,9 @@
 
 ## 📌 Featured Projects  
 
-🔹 **[Data Science Job Market Analysis Dashboard](#)** – Built a dashboard analyzing Helsinki's job market trends  
-🔹 **[Forecasting Dengue Cases](#)** – Time series modeling using ARIMA & VAR  
-🔹 **[Wind Speed Prediction](#)** – Compared ML algorithms for forecasting accuracy  
+🔹 **[Data Science Job Market Analysis Dashboard]** – Built a dashboard analyzing Helsinki's job market trends  
+🔹 **[Forecasting Dengue Cases]** – Time series modeling using ARIMA & VAR  
+🔹 **[Wind Speed Prediction]** – Compared ML algorithms for forecasting accuracy  
 
 
 ---
