@@ -1,4 +1,4 @@
-# Hi there, I'm Dilusha Disanayake! 👋  
+# Hi there, I'm Dilusha Senarathna! 👋  
 
 🎓 Master's student in **Data Science** at the University of Helsinki  
 📊 Passionate about **machine learning, statistical modeling, and time series forecasting**  
