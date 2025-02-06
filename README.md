@@ -1,7 +1,7 @@
 # Hi there, I'm Dilusha Senarathna! 👋  
 
 🎓 Master's student in **Data Science** at the University of Helsinki  
-📊 Passionate about **machine learning, statistical modeling, and time series forecasting**  
+📊 Passionate about **machine learning and statistical modeling**  
 🧩 Love solving complex problems and working on **data-driven insights**  
 
 ---
