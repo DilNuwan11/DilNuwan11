@@ -10,7 +10,7 @@
 
 - **Programming:** Python (pandas, NumPy, scikit-learn, TensorFlow), R, SQL, Java, C  
 - **Machine Learning:** Supervised & Unsupervised models, Time Series Forecasting  
-- **Data Visualization:** Matplotlib, Plotly  
+- **Data Visualization:** Matplotlib, Plotly, Tableau  
 - **Big Data & Cloud:** Hadoop, Spark, AWS, Azure (basic)  
 - **Other:** Data Cleaning, ETL, Web Scraping  
 
